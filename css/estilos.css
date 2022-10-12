@@ -17,15 +17,10 @@ body {
 }
 
 #cabecera {
-<<<<<<< HEAD
     background: #37488b;
     box-sizing: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
-    color: white;
-=======
     background: var(--color3);
-    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
     color: var(--color4);
->>>>>>> footer
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
