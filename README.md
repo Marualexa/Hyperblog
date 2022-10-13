@@ -14,5 +14,7 @@ En este curso se ve de todo:
 * El verdadero amor por las buenas practicas.
 * Trucos muy locos del profesor.
 * Creado por la plataforma platzi
+* Incluye proyectos cresativos.
+* Disponible para todas las edades.
 
 Y como un amable recordatorio :  **Este readme.md es un chiste**. Diseñado para el ejemplo.
